@@ -1,7 +1,7 @@
-Bike Buyers Excel Project
+Excel Projects
 Overview
 
-The Bike Buyers Excel Project involves cleaning raw data, using pivot tables to summarize and analyze the data, and creating an interactive dashboard to visualize the insights. This project aims to demonstrate the power of Excel in data analysis and visualization.
+Excel Project involves cleaning raw data, using pivot tables to summarize and analyze the data, and creating an interactive dashboard to visualize the insights. This project aims to demonstrate the power of Excel in data analysis and visualization.
 Project Structure
 
     Raw Data: The original dataset containing information about bike buyers.
